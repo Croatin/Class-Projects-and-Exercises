@@ -1,0 +1,11 @@
+﻿Build started 4/11/2013 12:37:01 PM.
+     1>Project "C:\Users\Adriana\documents\visual studio 2012\Projects\ch19 1\ch19 1\ch19 1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Adriana\documents\visual studio 2012\Projects\ch19 1\Debug\ch19 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Adriana\documents\visual studio 2012\Projects\ch19 1\Debug\ch19 1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Adriana\documents\visual studio 2012\Projects\ch19 1\Debug\ch19 1.lib" /MACHINE:X86 Debug\Source.obj
+     1>CVTRES : fatal error CVT1107: 'C:\Users\Adriana\documents\visual studio 2012\Projects\ch19 1\ch19 1\Debug\Source.obj' is corrupt
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "C:\Users\Adriana\documents\visual studio 2012\Projects\ch19 1\ch19 1\ch19 1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.65

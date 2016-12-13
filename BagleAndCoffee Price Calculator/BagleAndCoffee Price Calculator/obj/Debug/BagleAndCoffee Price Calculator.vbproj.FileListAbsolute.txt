@@ -1,0 +1,6 @@
+c:\users\adriana\documents\visual studio 2012\Projects\BagleAndCoffee Price Calculator\BagleAndCoffee Price Calculator\bin\Debug\BagleAndCoffee Price Calculator.exe.config
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\BagleAndCoffee Price Calculator\BagleAndCoffee Price Calculator\obj\Debug\BagleAndCoffee Price Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\BagleAndCoffee Price Calculator\BagleAndCoffee Price Calculator\obj\Debug\BagleAndCoffee_Price_Calculator.Form1.resources
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\BagleAndCoffee Price Calculator\BagleAndCoffee Price Calculator\obj\Debug\BagleAndCoffee_Price_Calculator.Resources.resources
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\BagleAndCoffee Price Calculator\BagleAndCoffee Price Calculator\obj\Debug\BagleAndCoffee Price Calculator.vbproj.GenerateResource.Cache
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\BagleAndCoffee Price Calculator\BagleAndCoffee Price Calculator\obj\Debug\BagleAndCoffee Price Calculator.xml
