@@ -1,0 +1,10 @@
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\bin\Debug\HomeworkCh6prob4.exe.config
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\bin\Debug\HomeworkCh6prob4.exe
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\bin\Debug\HomeworkCh6prob4.pdb
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\bin\Debug\HomeworkCh6prob4.xml
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\obj\Debug\HomeworkCh6prob4.Form1.resources
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\obj\Debug\HomeworkCh6prob4.Resources.resources
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\obj\Debug\HomeworkCh6prob4.vbproj.GenerateResource.Cache
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\obj\Debug\HomeworkCh6prob4.exe
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\obj\Debug\HomeworkCh6prob4.xml
+c:\users\adriana\documents\visual studio 2012\Projects\HomeworkCh6prob4\HomeworkCh6prob4\obj\Debug\HomeworkCh6prob4.pdb

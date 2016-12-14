@@ -1,0 +1,17 @@
+﻿Build started 1/22/2013 11:53:14 AM.
+     1>Project "C:\Users\Adriana\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication5.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication5.cpp
+         ConsoleApplication5.cpp
+     1>c:\users\adriana\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\consoleapplication5.cpp(22): error C3867: 'std::basic_string<_Elem,_Traits,_Alloc>::size': function call missing argument list; use '&std::basic_string<_Elem,_Traits,_Alloc>::size' to create a pointer to member
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+     1>Done Building Project "C:\Users\Adriana\Documents\Visual Studio 2012\Projects\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.69

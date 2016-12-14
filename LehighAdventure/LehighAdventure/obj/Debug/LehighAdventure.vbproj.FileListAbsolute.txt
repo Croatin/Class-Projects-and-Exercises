@@ -1,0 +1,12 @@
+c:\users\adriana\documents\visual studio 2012\Projects\LehighAdventure\LehighAdventure\bin\Debug\LehighAdventure.exe.config
+c:\users\adriana\documents\visual studio 2012\Projects\LehighAdventure\LehighAdventure\obj\Debug\LehighAdventure.Scubaform.resources
+c:\users\adriana\documents\visual studio 2012\Projects\LehighAdventure\LehighAdventure\obj\Debug\LehighAdventure.Resources.resources
+c:\users\adriana\documents\visual studio 2012\Projects\LehighAdventure\LehighAdventure\obj\Debug\LehighAdventure.MainForm.resources
+c:\users\adriana\documents\visual studio 2012\Projects\LehighAdventure\LehighAdventure\obj\Debug\LehighAdventure.vbproj.GenerateResource.Cache
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\LehighAdventure\LehighAdventure\obj\Debug\LehighAdventure.SkydiveForm.resources
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\LehighAdventure\LehighAdventure\bin\Debug\LehighAdventure.exe
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\LehighAdventure\LehighAdventure\bin\Debug\LehighAdventure.pdb
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\LehighAdventure\LehighAdventure\bin\Debug\LehighAdventure.xml
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\LehighAdventure\LehighAdventure\obj\Debug\LehighAdventure.exe
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\LehighAdventure\LehighAdventure\obj\Debug\LehighAdventure.xml
+C:\Users\Adriana\Documents\Visual Studio 2012\Projects\LehighAdventure\LehighAdventure\obj\Debug\LehighAdventure.pdb

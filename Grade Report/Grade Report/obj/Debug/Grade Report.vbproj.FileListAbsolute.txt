@@ -1,0 +1,10 @@
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\bin\Debug\Grade Report.exe.config
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\bin\Debug\Grade Report.exe
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\bin\Debug\Grade Report.pdb
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\bin\Debug\Grade Report.xml
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\obj\Debug\Grade_Report.Form1.resources
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\obj\Debug\Grade_Report.Resources.resources
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\obj\Debug\Grade Report.vbproj.GenerateResource.Cache
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\obj\Debug\Grade Report.exe
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\obj\Debug\Grade Report.xml
+c:\users\adriana\documents\visual studio 2012\Projects\Grade Report\Grade Report\obj\Debug\Grade Report.pdb

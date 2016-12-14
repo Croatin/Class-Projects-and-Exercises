@@ -1,0 +1,12 @@
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\bin\Debug\TestingDataBase.exe.config
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\bin\Debug\Company.mdf
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\bin\Debug\Company_log.ldf
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\bin\Debug\TestingDataBase.exe
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\bin\Debug\TestingDataBase.pdb
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\bin\Debug\TestingDataBase.xml
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\obj\Debug\TestingDataBase.Form1.resources
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\obj\Debug\TestingDataBase.Resources.resources
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\obj\Debug\TestingDataBase.vbproj.GenerateResource.Cache
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\obj\Debug\TestingDataBase.exe
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\obj\Debug\TestingDataBase.xml
+c:\users\adriana\documents\visual studio 2012\Projects\TestingDataBase\TestingDataBase\obj\Debug\TestingDataBase.pdb

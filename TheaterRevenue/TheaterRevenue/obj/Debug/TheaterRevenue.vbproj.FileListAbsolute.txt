@@ -1,0 +1,10 @@
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\bin\Debug\TheaterRevenue.exe.config
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.Resources.resources
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.vbproj.GenerateResource.Cache
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.Form1.resources
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\bin\Debug\TheaterRevenue.exe
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\bin\Debug\TheaterRevenue.pdb
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\bin\Debug\TheaterRevenue.xml
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.exe
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.xml
+c:\users\adriana\documents\visual studio 2012\Projects\TheaterRevenue\TheaterRevenue\obj\Debug\TheaterRevenue.pdb

@@ -1,0 +1,10 @@
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\bin\Debug\RandomLotteryNums.exe.config
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\bin\Debug\RandomLotteryNums.exe
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\bin\Debug\RandomLotteryNums.pdb
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\bin\Debug\RandomLotteryNums.xml
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\obj\Debug\RandomLotteryNums.Form1.resources
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\obj\Debug\RandomLotteryNums.Resources.resources
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\obj\Debug\RandomLotteryNums.vbproj.GenerateResource.Cache
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\obj\Debug\RandomLotteryNums.exe
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\obj\Debug\RandomLotteryNums.xml
+c:\users\adriana\documents\visual studio 2012\Projects\RandomLotteryNums\RandomLotteryNums\obj\Debug\RandomLotteryNums.pdb

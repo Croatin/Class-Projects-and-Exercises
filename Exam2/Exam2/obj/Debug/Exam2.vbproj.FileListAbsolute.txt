@@ -1,0 +1,10 @@
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\bin\Debug\Exam2.exe.config
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\bin\Debug\Exam2.exe
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\bin\Debug\Exam2.pdb
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\bin\Debug\Exam2.xml
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\obj\Debug\Exam2.Form1.resources
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\obj\Debug\Exam2.Resources.resources
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\obj\Debug\Exam2.vbproj.GenerateResource.Cache
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\obj\Debug\Exam2.exe
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\obj\Debug\Exam2.xml
+c:\users\adriana\documents\visual studio 2012\Projects\Exam2\Exam2\obj\Debug\Exam2.pdb

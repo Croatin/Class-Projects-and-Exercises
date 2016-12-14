@@ -1,0 +1,14 @@
+﻿Build started 1/22/2013 11:58:12 AM.
+     1>Project "c:\Users\Adriana\documents\visual studio 2012\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ConsoleApplication6.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication6.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication6.cpp
+         ConsoleApplication6.cpp
+     1>c:\users\adriana\documents\visual studio 2012\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(13): error C2143: syntax error : missing ';' before 'string'
+     1>c:\users\adriana\documents\visual studio 2012\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(13): error C2133: 'str' : unknown size
+     1>Done Building Project "c:\Users\Adriana\documents\visual studio 2012\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.49

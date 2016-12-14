@@ -1,0 +1,10 @@
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.exe.config
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.exe
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.pdb
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.xml
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running_the_Race.Form1.resources
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running_the_Race.Resources.resources
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running the Race.vbproj.GenerateResource.Cache
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running the Race.exe
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running the Race.xml
+c:\users\adriana\documents\visual studio 2012\Projects\Running the Race\Running the Race\obj\Debug\Running the Race.pdb
